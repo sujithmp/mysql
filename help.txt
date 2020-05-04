@@ -1,1 +1,2 @@
 https://www.knowledgewalls.com/johnpeter/books/mysql/how-to-find-factorial-with-mysql-recursive-stored-procedure-with-example
+https://codeburst.io/utilize-parameters-with-mysql-stored-procedure-by-examples-4fd339129523
