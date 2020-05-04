@@ -1,0 +1,1 @@
+https://www.knowledgewalls.com/johnpeter/books/mysql/how-to-find-factorial-with-mysql-recursive-stored-procedure-with-example
