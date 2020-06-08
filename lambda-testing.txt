@@ -1,0 +1,16 @@
+
+
+Testing lambda functions is a bit pain and that's why a documentation for this is required. In this documentation it's going to cover how to prepare the environment for running  aws lambda function locally.
+
+The first thing we need to do is install aws cli in the system depending upon the operating system. Here we are using windows. It's not neccessarily required to install aws cli for this, since we have to use s3 bucket I am gonna use aws cli. AWS cli can be installed easily using the installer msi file downloaded from the link described in the  official aws documentation page.
+
+If you don't want to install aws cli you can do so as we will be using the aws sdk extension  in vs code later, then connecting to the aws cli console by entering the access key and secret key. If you don't have one go create an aws account. Once you have created an aws account you will be provided with an access key id and secret key id.
+
+We will be using these keys several times in this process.  
+
+
+
+
+
+
+
